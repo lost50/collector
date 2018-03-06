@@ -38,6 +38,27 @@
 
 <xml>
   <dir>
+    <title>Urban.</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Urban.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Horror</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Horror.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Scifi</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Scifi.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
     <title>Action List</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/action%20list.xml</link>
   </dir>
@@ -91,16 +112,10 @@
   </dir>
 </xml>
 
+
 <xml>
   <dir>
     <title>Collector</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/timber.xml</link>
-  </dir>
-</xml>
-
-<xml>
-  <dir>
-    <title></title>
-    <link></link>
   </dir>
 </xml>
