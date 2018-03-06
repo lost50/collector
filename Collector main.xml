@@ -1,18 +1,106 @@
+<dir>
+    <title>Releass</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Releass.xml</link>
+</dir>
+
 <xml>
   <dir>
-    <title>Timber</title>
-    <link>https://raw.githubusercontent.com/beast58/timber/master/timber.xml</link>
+    <title>Collector movies</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/collecter%20movies.xml</link>
   </dir>
+</xml>
 
+<xml>
   <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/movies.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title> Movies Collection</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/collections.xml</link>
+  </dir>
+</xml>
+<xml>
+  <dir>
+    <title>Eye Movis list</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Eye.xml</link>
+  </dir>
+</xml>
+<xml>
+  <dir>
+    <title>Movie Flicks</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Flicks.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Action List</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/action%20list.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Kids Place</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/kids%20place.xml</link>
+  </dir>
+</xml>
+
+ <dir>
+    <title>BIGmovielist</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/BIGmovielist.xml</link>
+  </dir>
+  
+<xml>
+  <dir>
+    <title>Collector Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Collecter%20tv.xml</link>
   </dir>
 </xml>
 
 
+<xml>
   <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
+    <title>actors and actess</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/actors%20and%20actess.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Collection</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/collections.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>production</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/production.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Imdb</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/example%20main.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Collector</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/timber.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title></title>
+    <link></link>
   </dir>
 </xml>
