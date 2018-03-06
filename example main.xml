@@ -1,0 +1,69 @@
+   
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb>
+</dir>
+
+    
+<dir>
+      <title>TMDB Upcoming</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
+
+    
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+    
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+      <title>Search TMDB</title>
+      <tmdb>search</tmdb>
+</dir>
+
+<dir>
+      <title>Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+      <title>Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+
+<dir>
+      <title>Movie Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+      <title>Movie Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+
+<dir>
+      <title>Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+      <title>Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+      <title>TV Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+
+<dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+</dir>

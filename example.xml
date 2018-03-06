@@ -1,0 +1,30 @@
+    Returns The TMDB Popular TV Shows List
+    <dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+    </dir>
+
+    Returns The TMDB Top Rated TV Shows List
+    <dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+    </dir>
+
+    Returns A List Of Shows Airing Today
+    <dir>
+      <title>TMDB Airing Today</title>
+      <tmdb>tv/today</tmdb>
+    </dir>
+
+    Returns A List Of Shows Airing In The Next 7 Days
+    <dir>
+      <title>TMDB On The Air</title>
+      <tmdb>tv/on_the_air</tmdb>
+    </dir>
+
+	    Returns The TMDB Popular People List.  Results Show Only Movie Titles Currently
+
+    <dir>
+      <title>Popular People</title>
+      <tmdb>people/popular</tmdb>
+    </dir>

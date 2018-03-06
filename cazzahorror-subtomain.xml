@@ -1,0 +1,12 @@
+####this raw url goes to Horror Main step 2
+
+<dir>
+<title>Horror</title>
+<tmdb>list/44101</tmdb>
+</dir>
+
+<dir>
+        <name>Horror Collections</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/coll.xml</link>
+
+</dir>

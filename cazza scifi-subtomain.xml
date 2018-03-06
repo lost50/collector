@@ -1,0 +1,15 @@
+<dir>
+<title>Sci-Fi Movies</title>
+<tmdb>list/44104</tmdb>
+</dir>
+
+<dir>
+<title>Sci-Fi TV Shows</title>
+<tmdb>list/44993</tmdb>
+</dir>
+
+<dir>
+        <name>Sci-Fi Collections</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/new%202.xml</link>
+
+</dir>

@@ -1,0 +1,32 @@
+
+###step 3 this raw url goes to sci-fi collections in sub menu
+
+<dir>
+<title>Battle Star Collection</title>
+<tmdb>list/45238</tmdb>
+</dir>
+
+<dir>
+<title>Resident Evil Collection</title>
+<tmdb>list/45085</tmdb>
+</dir>
+
+<dir>
+<title>Spider Man Collection</title>
+<tmdb>list/45548</tmdb>
+</dir>
+
+<dir>
+<title>Star Trek Collection</title>
+<tmdb>list/45237</tmdb>
+</dir>
+
+<dir>
+<title>Star Wars Collection</title>
+<tmdb>list/45240</tmdb>
+</dir>
+
+<dir>
+<title>X Men Collection</title>
+<tmdb>list/45236 </tmdb>
+</dir>

@@ -1,0 +1,26 @@
+
+<dir>
+<title>Crime and Gangster</title>
+<tmdb>list/44688</tmdb>
+</dir>
+
+<dir>
+    <title>Paranormal</title>
+    <tmdb>list/42905</tmdb>
+</dir>
+
+<dir>
+   <name>Sci-fi</name>
+   <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/sci.xml</link>
+</dir>
+
+<dir>
+<title>War Films</title>
+<tmdb>list/44686</tmdb>
+</dir>
+
+<dir>
+<title>Westerns</title>
+<tmdb>list/44690</tmdb>
+</dir>
+

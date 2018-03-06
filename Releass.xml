@@ -1,0 +1,16 @@
+
+<dir>
+    <title>movie years</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/tmdbyear2.xml</link>
+  </dir>
+
+<dir>
+    <title>newestreleases</title>
+    <link>https://raw.githubusercontent.com/lost50/timber/master/newestreleases3.xml</link>
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  

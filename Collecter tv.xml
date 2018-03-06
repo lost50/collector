@@ -1,0 +1,19 @@
+<dir>
+<title>T tv shows</title>
+<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
+</dir>
+
+<dir>
+<title>Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
+
+<dir>
+<title>B list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
+</dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
