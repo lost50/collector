@@ -12,3 +12,8 @@
 <title>flicks</title>
 <tmdb>list/https://www.themoviedb.org/list/3945</tmdb>
 </dir>
+
+<dir>
+<title>Movie Pack</title>
+<tmdb>list/https://www.themoviedb.org/list/49541</tmdb>
+</dir>
