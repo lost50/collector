@@ -1,30 +1,30 @@
 <dir>
-<title>Urban movies</title>
+<title>Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/48024</tmdb>
 </dir>
 
 <dir>
-<title>Urban Drama/action</title>
+<title>Drama/action</title>
 <tmdb>list/https://www.themoviedb.org/list/48098</tmdb>
 </dir>
 
 <dir>
-<title>Urban comedy movies</title>
+<title>Comedy movies</title>
 <tmdb>list/https://www.themoviedb.org/list/48100</tmdb>
 </dir>
 
 <dir>
-<title>urban funk</title>
+<title>Motown</title>
 <tmdb>list/https://www.themoviedb.org/list/48626</tmdb>
 </dir>
 
 <dir>
-<title>Urban love</title>
+<title>lovers only</title>
 <tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
 </dir>
 
 <dir>
-<title>Urban Thriller</title>
+<title>Thriller</title>
 <tmdb>list/https://www.themoviedb.org/list/48573</tmdb>
 </dir>
 
