@@ -17,12 +17,7 @@
   </dir>
 </xml>
 
-<xml>
-  <dir>
-    <title> Movies Collection</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/collections.xml</link>
-  </dir>
-</xml>
+
 <xml>
   <dir>
     <title>Eye Movis list</title>
@@ -42,6 +37,11 @@
     <link>https://raw.githubusercontent.com/lost50/collector/master/Urban.xml</link>
   </dir>
 </xml>
+
+<dir>
+    <title>Movies Boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Boxset.xml</link>
+</dir>
 
 <xml>
   <dir>
@@ -102,13 +102,6 @@
   <dir>
     <title>actors and actess</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/actors%20and%20actess.xml</link>
-  </dir>
-</xml>
-
-<xml>
-  <dir>
-    <title>Collection</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/collections.xml</link>
   </dir>
 </xml>
 
