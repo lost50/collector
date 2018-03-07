@@ -1,0 +1,36 @@
+<dir>
+    <title>Boxsets</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/boxsets.xml</link>
+</dir>
+
+<dir>
+    <title>kids_boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/kids_boxset.xml</link>
+</dir>
+
+<dir>
+    <title>Animated Boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/anim%20boxset.xml</link>
+</dir>
+
+<dir>
+    <title>Movie Pack</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Pack.xml</link>
+</dir>
+
+
+<dir>
+    <title>BIG Movielist</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/BIGmovielist.xml</link>
+</dir>
+
+<dir>
+    <title>Production</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/production.xml</link>
+</dir>
+
+
+<dir>
+    <title></title>
+    <link></link>
+</dir>
