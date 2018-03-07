@@ -52,6 +52,13 @@
 
 <xml>
   <dir>
+    <title>Boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/boxsets.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
     <title>Horror</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/Horror.xml</link>
   </dir>
