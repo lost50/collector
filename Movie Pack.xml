@@ -5,22 +5,22 @@
 </dir>
  
 <dir>
-<title>Tomb Raider Collection</title>
-<tmdb>https://www.themoviedb.org/collection/2467-tomb-raider-collection</tmdb>
-</dir>
- 
- <dir>
 <title>Pack 2</title>
+<tmdb>https://www.themoviedb.org/list/49673</tmdb>
+</dir>
+ 
+ <dir>
+<title>Pack 3</title>
+<tmdb>list/https://www.themoviedb.org/list/49676</tmdb>
+</dir>
+ 
+ <dir>
+<title>Pack 4</title>
 <tmdb>list/https://www.themoviedb.org/list/49541</tmdb>
 </dir>
  
  <dir>
-<title>Pack 1</title>
-<tmdb>list/https://www.themoviedb.org/list/49541</tmdb>
-</dir>
- 
- <dir>
-<title>Pack 1</title>
+<title>Pack 5</title>
 <tmdb>list/https://www.themoviedb.org/list/49541</tmdb>
 </dir>
  
