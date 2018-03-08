@@ -119,6 +119,14 @@
   </dir>
 </xml>
 
+<xml>
+  <dir>
+    <title>Trakt</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/trakt.xml</link>
+  </dir>
+</xml>
+
+
 
 <xml>
   <dir>
