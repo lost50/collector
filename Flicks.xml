@@ -40,3 +40,21 @@
 <title>My cinema 2011</title>
 <tmdb>list/https://www.themoviedb.org/list/4985</tmdb>
 </dir>
+
+
+<dir>
+<title>Trilling American Films</title>
+<tmdb>list/https://www.themoviedb.org/list/43</tmdb>
+</dir>
+
+
+<dir>
+<title>Sundance</title>
+<tmdb>list/https://www.themoviedb.org/list/41773</tmdb>
+</dir>
+
+
+<dir>
+<title>Movie Horror</title>
+<tmdb>list/https://www.themoviedb.org/list/46645</tmdb>
+</dir>
