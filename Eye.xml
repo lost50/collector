@@ -1,5 +1,10 @@
 <dir>
-<title>action</title>
+<title>New List</title>
+<tmdb>list/https://www.themoviedb.org/list/50077</tmdb>
+</dir>
+
+<dir>
+<title>Action</title>
 <tmdb>list/https://www.themoviedb.org/list/49259</tmdb>
 </dir>
 
