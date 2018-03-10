@@ -43,6 +43,11 @@
     <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Boxset.xml</link>
 </dir>
 
+<dir>
+    <title>Movies Boxset 2</title>
+    <link>https://raw.githubusercontent.com/lost50/chain/master/b0xs3ts.xml</link>
+</dir>
+
 <xml>
   <dir>
     <title>Movie Pack</title>
