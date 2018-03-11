@@ -4,6 +4,11 @@
 </dir>
 
 <dir>
+<title>My Picks</title>
+<tmdb>list/https://www.themoviedb.org/list/50188</tmdb>
+</dir>
+
+<dir>
 <title>Action</title>
 <tmdb>list/https://www.themoviedb.org/list/49259</tmdb>
 </dir>
