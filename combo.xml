@@ -1,0 +1,23 @@
+<dir>
+        <name>[B][COLORaqua]I.C.U[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Eye%20Main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://bossbuilds.club/roland/pics/icon.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORmintcream]Collector[/COLOR][/B]</name>
+        <link>https://raw.githubusercontent.com/lost50/collector/master/Collector%20main.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://bossbuilds.club/roland/pics/emerge.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.collector/?action=openSettings</link>
+<thumbnail>http://cdn.osxdaily.com/wp-content/uploads/2015/09/iOS-Settings-icon.png</thumbnail>
+</plugin>
