@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.collector" name="Collector" version="1.2" provider-name="Debo">
+<addon id="plugin.video.eye" name="I.C.U" version="1.3" provider-name="Timber">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
@@ -12,7 +12,7 @@
         <import addon="script.module.resolveurl" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
+        <provides>audio video</provides>
     </extension>
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
