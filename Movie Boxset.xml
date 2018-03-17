@@ -1,6 +1,6 @@
 <dir>
     <title>Boxsets</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/boxsets.xml</link>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/myboxset.xml</link>
 </dir>
 
 <dir>
@@ -11,11 +11,6 @@
 <dir>
     <title>Animated Boxset</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/anim%20boxset.xml</link>
-</dir>
-
-<dir>
-    <title>Movie Pack</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Pack.xml</link>
 </dir>
 
 
