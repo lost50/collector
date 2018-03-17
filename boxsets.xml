@@ -9,6 +9,25 @@
 </dir>
 
 <dir>
+<title>Missing In Action Collection</title>
+<tmdb>collection/46512</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Sate Property Collection</title>
+<tmdb>collection/124879</tmdb>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Dead in Tombston Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/473185</tmdb>
+</dir>
+
+<dir>
 <title>The Fast and the Furious Collection (2001-2021)</title>
 <tmdb>list/https://www.themoviedb.org/collection/9485-the-fast-and-the-furious-collection</tmdb>
 </dir>
@@ -80,8 +99,7 @@
 </dir>
 
 <dir>
-<title>
-12 Rounds Collection (2009-2015)</title>
+<title>12 Rounds Collection (2009-2015)</title>
 <tmdb>list/https://www.themoviedb.org/collection/221622-12-rounds-collection</tmdb>
 </dir>
 
@@ -185,6 +203,11 @@
 <dir>
 <title>Godzilla (Millennium) Collection (1999-2004)</title>
 <tmdb>collection/https://www.themoviedb.org/collection/374512-godzilla-millennium-collection</tmdb>
+</dir>
+
+<dir>
+<title>The Art of War Collection </title>
+<tmdb>collection/https://www.themoviedb.org/collection/25410-the-art-of-wars-collection</tmdb>
 </dir>
 
 <dir>
