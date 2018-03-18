@@ -17,6 +17,12 @@
   </dir>
 </xml>
 
+<xml>
+  <dir>
+    <title>Collector Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Collecter%20tv.xml</link>
+  </dir>
+</xml>
 
 <xml>
   <dir>
@@ -43,11 +49,6 @@
     <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Boxset.xml</link>
 </dir>
 
-<dir>
-    <title>Movies Boxset 2</title>
-    <link>https://raw.githubusercontent.com/lost50/chain/master/b0xs3ts.xml</link>
-</dir>
-
 <xml>
   <dir>
     <title>Movie Pack</title>
@@ -64,14 +65,14 @@
 
 <xml>
   <dir>
-    <title>Horror</title>
+    <title>Horror Movies</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/Horror.xml</link>
   </dir>
 </xml>
 
 <xml>
   <dir>
-    <title>Scifi</title>
+    <title>Scifi Movies</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/Scifi.xml</link>
   </dir>
 </xml>
@@ -90,30 +91,10 @@
   </dir>
 </xml>
 
- <dir>
-    <title>BIGmovielist</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/BIGmovielist.xml</link>
-  </dir>
-  
-<xml>
-  <dir>
-    <title>Collector Tv</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/Collecter%20tv.xml</link>
-  </dir>
-</xml>
-
-
 <xml>
   <dir>
     <title>actors and actess</title>
     <link>https://raw.githubusercontent.com/lost50/collector/master/actors%20and%20actess.xml</link>
-  </dir>
-</xml>
-
-<xml>
-  <dir>
-    <title>production</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/production.xml</link>
   </dir>
 </xml>
 
@@ -137,15 +118,6 @@
     <link>https://raw.githubusercontent.com/lost50/collector/master/example%20main.xml</link>
   </dir>
 </xml>
-
-<xml>
-  <dir>
-    <title>Trakt</title>
-    <link>https://raw.githubusercontent.com/lost50/collector/master/trakt.xml</link>
-  </dir>
-</xml>
-
-
 
 <xml>
   <dir>
